@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LuckyDipGenerator
+comment0.text=\n\ LuckyDipGenerator\ is\ a\ class\ which\ generates\ a\ random\ number\ between\n\ a\ programable\ 2\ numbers.\n\n\ @author\ Anmol\ Bagati\n\ @version\ v2.2\n
+comment1.params=
+comment1.target=LuckyDipGenerator()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ LuckyDipGenerator\n
+comment2.params=newRandomNum
+comment2.target=LuckyDipGenerator(int)
+comment2.text=\n\ Non-default\ Constructor\ for\ objects\ of\ class\ LuckyDipGenerator\n
+comment3.params=min\ max
+comment3.target=int\ generateRandomNumber(int,\ int)
+comment3.text=\n\ Method\ to\ generate\ a\ random\ number\ between\ a\ maximum\ and\ minimum\ value\ passed\ as\ parameters\n\n\ @param\ \ min\ \ \ a\ minimum\ value\ of\ the\ range\n\ @param\ \ max\ \ \ a\ maximum\ value\ of\ the\ range\n\ @return\ \ \ a\ generated\ random\ number\ between\ those\ 2\ numbers\ (Integer)\n
+numComments=4
